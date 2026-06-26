@@ -58,9 +58,9 @@ Tagore Engineering College
 
 ## 🚀 Featured Projects
 
-### ♻️ Smart Dustbin using Arduino & ESP8266
+### ♻️ Dual axis Solar panel using Arduino & ESP8266
 
-An IoT project that detects garbage levels using ultrasonic sensors and notifies users when the bin is full.
+An IoT project that detects the sunligt and turns the solar panel towards that direction.
 
 ### 💻 C++ OOP Programs
 
@@ -90,7 +90,7 @@ A responsive portfolio website showcasing my projects and skills.
 
 📧 Email: [kalailokesh234@gmail.com](mailto:kalailokesh234@gmail.com)
 
-💼 LinkedIn: *(Add your LinkedIn URL here)*
+💼 LinkedIn:(https://www.linkedin.com/in/lokesh-s-65372b3a3/)
 
 📍 Chennai, Tamil Nadu, India
 
