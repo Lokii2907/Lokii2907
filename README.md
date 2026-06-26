@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
 # Hi 👋, I'm Lokesh S
 
 🎓 **B.E. Computer Science Engineering Student**
