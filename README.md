@@ -21,7 +21,6 @@
 
 ---
 
-## 💻 Skills
 
 ## 🛠️ Tech Stack
 
