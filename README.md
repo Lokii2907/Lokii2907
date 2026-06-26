@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Lokesh+S;Computer+Science+Engineering+Student;C%2B%2B+Developer;Python+Programmer;AI+%7C+IoT+Enthusiast;Future+Software+Engineer" />
 </p>
-![](https://komarev.com/ghpvc/?username=Lokii2907&color=blueviolet&style=for-the-badge)
+(https://komarev.com/ghpvc/?username=Lokii2907&color=blueviolet&style=for-the-badge)
 # Hi 👋, I'm Lokesh S
 
 🎓 **B.E. Computer Science Engineering Student**
